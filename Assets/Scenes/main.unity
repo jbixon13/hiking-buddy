@@ -778,7 +778,7 @@ PrefabInstance:
     - target: {fileID: 114378541491328834, guid: c0ce4c9dacbd84ff09f18011abded7e6,
         type: 3}
       propertyPath: _vectorData._layerProperty.locationPrefabList.Array.data[0].density
-      value: 15
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 114378541491328834, guid: c0ce4c9dacbd84ff09f18011abded7e6,
         type: 3}
@@ -800,6 +800,12 @@ PrefabInstance:
       propertyPath: _imagery._layerProperty.rasterOptions.useCompression
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114378541491328834, guid: c0ce4c9dacbd84ff09f18011abded7e6,
+        type: 3}
+      propertyPath: _vectorData._layerProperty.locationPrefabList.Array.data[0].spawnPrefabOptions.prefab
+      value: 
+      objectReference: {fileID: 6074967966880849877, guid: 9c3584bef23a07b4a82eed4c07ab5186,
+        type: 3}
     - target: {fileID: 4580065472578918, guid: c0ce4c9dacbd84ff09f18011abded7e6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
