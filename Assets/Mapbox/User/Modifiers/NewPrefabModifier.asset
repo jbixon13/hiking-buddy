@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dd8aacc1880ff504d9531b4d61c86458, type: 3}
-  m_Name: NightlifePoiLabelModifier
+  m_Name: NewPrefabModifier
   m_EditorClassIdentifier: 
   Active: 1
   _options:
-    prefab: {fileID: 0}
+    prefab: {fileID: 6074967966880849877, guid: 9c3584bef23a07b4a82eed4c07ab5186,
+      type: 3}
     scaleDownWithWorld: 1
