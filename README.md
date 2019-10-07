@@ -1,6 +1,4 @@
 <h1>Hiking Buddy<img src='logo.png' align='right' height=150 width=150></h1>
-
-## What is it?
 A tabletop AR terrain map to inspect hiking trails and associated terrain.
 
 ## How is it built?
