@@ -254,6 +254,11 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 224835413515161394, guid: 98be219873e6d4dffb5949746f515a33,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 224857786874416376, guid: 98be219873e6d4dffb5949746f515a33,
         type: 3}
       propertyPath: m_SizeDelta.y
@@ -262,15 +267,17 @@ PrefabInstance:
     - target: {fileID: 224857786874416376, guid: 98be219873e6d4dffb5949746f515a33,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.000015258789
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114603753021256032, guid: 98be219873e6d4dffb5949746f515a33,
         type: 3}
       propertyPath: m_Text
-      value: "<b>Tabletop AR experience</b>\n\nRender a map on any flat surface in
-        AR. This starting point even clips the map at table bounds. \n\nNOTE : \nFor
-        AR examples to work as expected, please add layers (using the drop down at
-        the top right corner of the Editor window) with the following names \n\nARGameObject\nMap\nPath\nBoth"
+      value: "<b>Hiking Buddy</b>\n\nExplore a 3D map of your favorite hikes or plan
+        out future hikes from a new angle. \n\nSearch for a location, zoom in and
+        out, and move your body and phone around to see everything.\n\nNOTE : \nSearching
+        for specific trails or mountains has mixed results. It can be more effective
+        to search for the area or park you are interested in and then navigate to
+        the desired trail."
       objectReference: {fileID: 0}
     - target: {fileID: 114714814348837408, guid: 98be219873e6d4dffb5949746f515a33,
         type: 3}
