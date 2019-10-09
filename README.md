@@ -1,7 +1,5 @@
-# Hiking Buddy
-
-## What is it?
-A tabletop AR terrain map focusing (currently) on places I've hiked.
+<h1>Hiking Buddy<img src='logo.png' align='right' height=150 width=150></h1>
+A tabletop AR terrain map to explore hiking trails and associated terrain.
 
 ## How is it built?
 I built it in Unity using the Mapbox SDK and ARCore.
